@@ -3,19 +3,20 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication7;
+package javaapplication4;
+
+import java.util.Scanner;
 
 /**
  *
  * @author hp
  */
-public class JavaApplication7 {
-
-    /**
-     * @param args the command line arguments
-     */
+public class RMI {
     public static void main(String[] args) {
-        // TODO code application logic here
+        try {
+            
+        } catch (Exception e) {
+        }
+        
     }
-    
 }
